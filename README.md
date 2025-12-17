@@ -21,7 +21,7 @@ Optifine or Entity Model Features is required for this pack to function.
 for snapshots and pre releases
 - https://livzmc.net/optikai/downloads
 
-Download Locations
+Download
 ------------------------------
 https://modrinth.com/resourcepack/classic-full-block-chest
 
